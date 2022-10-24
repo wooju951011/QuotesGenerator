@@ -16,6 +16,7 @@
 		2A2AE7CA2906CF0600102CF2 /* QuotesGeneratorTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A2AE7C92906CF0600102CF2 /* QuotesGeneratorTests.swift */; };
 		2A2AE7D42906CF0600102CF2 /* QuotesGeneratorUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A2AE7D32906CF0600102CF2 /* QuotesGeneratorUITests.swift */; };
 		2A2AE7D62906CF0600102CF2 /* QuotesGeneratorUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A2AE7D52906CF0600102CF2 /* QuotesGeneratorUITestsLaunchTests.swift */; };
+		2A2AE7E32906D1E700102CF2 /* Quote.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A2AE7E22906D1E700102CF2 /* Quote.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		2A2AE7CF2906CF0600102CF2 /* QuotesGeneratorUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = QuotesGeneratorUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		2A2AE7D32906CF0600102CF2 /* QuotesGeneratorUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuotesGeneratorUITests.swift; sourceTree = "<group>"; };
 		2A2AE7D52906CF0600102CF2 /* QuotesGeneratorUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuotesGeneratorUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		2A2AE7E22906D1E700102CF2 /* Quote.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Quote.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				2A2AE7B22906CF0500102CF2 /* AppDelegate.swift */,
 				2A2AE7B42906CF0500102CF2 /* SceneDelegate.swift */,
 				2A2AE7B62906CF0500102CF2 /* ViewController.swift */,
+				2A2AE7E22906D1E700102CF2 /* Quote.swift */,
 				2A2AE7B82906CF0500102CF2 /* Main.storyboard */,
 				2A2AE7BB2906CF0600102CF2 /* Assets.xcassets */,
 				2A2AE7BD2906CF0600102CF2 /* LaunchScreen.storyboard */,
@@ -258,6 +261,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2A2AE7E32906D1E700102CF2 /* Quote.swift in Sources */,
 				2A2AE7B72906CF0500102CF2 /* ViewController.swift in Sources */,
 				2A2AE7B32906CF0500102CF2 /* AppDelegate.swift in Sources */,
 				2A2AE7B52906CF0500102CF2 /* SceneDelegate.swift in Sources */,
